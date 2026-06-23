@@ -27,5 +27,5 @@ jobs:
         with:
           log-level: debug
           ecosystems: elixir
-          fail-on: high
+          fail-on: any
           comment-summary-in-pr: always
